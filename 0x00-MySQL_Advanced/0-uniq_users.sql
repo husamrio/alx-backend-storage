@@ -1,4 +1,5 @@
--- Create a SQL script that creates a table users
+-- Create a SQL script that creates a table with
+-- unique users.
 
 CREATE TABLE IF NOT EXISTS users (
     id int NOT NULL AUTO_INCREMENT,
